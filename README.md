@@ -1,5 +1,5 @@
 # KP-PVP-Source-BUILD-BR
-# Source of KP-PVP version BUILD-08
+# Source of KP-PVP version BUILD-BR
 
 # 1 - You need give me the credit for the original work.
 # - Do not stolen people hard work!
