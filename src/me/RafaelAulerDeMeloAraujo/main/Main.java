@@ -640,9 +640,3 @@ public static String TAC(String s)
 }
 
 
-
-
-/* Location:              D:\Desktop\video\Minhas Coisas do Desktop\KP-PVPvB12 (1).jar!\me\RafaelAulerDeMeloAraujo\main\Main.class
- * Java compiler version: 8 (52.0)
- * JD-Core Version:       0.7.1
- */
